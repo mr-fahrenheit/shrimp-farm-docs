@@ -104,11 +104,11 @@ const config = {
             items: [
               {
                 label: 'Developer Guide',
-                to: '/docs/developer-guide',
+                to: 'developer-guide',
               },
               {
                 label: 'Technical Reference',
-                to: '/docs/reference',
+                to: 'reference',
               },
             ],
           },

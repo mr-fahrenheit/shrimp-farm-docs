@@ -19,5 +19,5 @@ We believe this is the first implementation of CPI-based Candy Machine minting a
 
 ## Implementation
 
-- **[NFT Minting via CPI](./nft-minting-via-cpi)** - Technical details of automatic minting
+- **[NFT Minting via CPI](./cpi-minting)** - Technical details of automatic minting
 - **[Ownership Verification](./ownership-verification)** - Security and bonus verification system
