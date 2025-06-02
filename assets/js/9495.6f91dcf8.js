@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkshrimp_farm_docs=self.webpackChunkshrimp_farm_docs||[]).push([[9495],{9495:(e,s,r)=>{r.d(s,{createPieServices:()=>c.f});var c=r(9732);r(3579)}}]);

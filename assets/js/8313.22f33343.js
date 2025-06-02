@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkshrimp_farm_docs=self.webpackChunkshrimp_farm_docs||[]).push([[8313],{694:(e,s,c)=>{c.d(s,{createPacketServices:()=>r.$});var r=c(9923);c(3579)}}]);

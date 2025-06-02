@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkshrimp_farm_docs=self.webpackChunkshrimp_farm_docs||[]).push([[2024],{2024:(e,r,s)=>{s.d(r,{createArchitectureServices:()=>c.S});var c=s(8815);s(3579)}}]);
